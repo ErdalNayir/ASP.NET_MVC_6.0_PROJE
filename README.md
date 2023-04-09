@@ -7,6 +7,8 @@ MVC APP
 * Auto Mapper
 * Fluent Vaidation
 * Entity Framework
+* MySQL
+* Migrations
 
 ### What will I use ?
 
