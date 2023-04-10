@@ -3,7 +3,7 @@ MVC APP
 
 ### What I have used so far
 
-* Repository Patter
+* Repository Pattern
 * Auto Mapper
 * Fluent Vaidation
 * Entity Framework
